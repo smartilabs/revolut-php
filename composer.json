@@ -4,7 +4,7 @@
     "keywords": ["revolut", "api", "business", "php"],
     "type": "library",
     "require": {
-        "guzzlehttp/guzzle": "ˆ7.0",
+        "guzzlehttp/guzzle": "^7.0.1",
         "php": ">= 7.0",
         "vdbelt/oauth2-revolut": "^1.0"
     },
